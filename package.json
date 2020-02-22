@@ -2,7 +2,7 @@
     "name": "atari-xe-color-theme",
     "displayName": "Atari XE",
     "description": "Color theme inspired by Atari XL/XE BASIC",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.42.0"
     },
