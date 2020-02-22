@@ -9,6 +9,12 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "FilipGolewski",
+    "icon": "media/icon/package.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zoltraks/vscode-theme-atari-xe"
+    },
     "contributes": {
         "themes": [
             {
