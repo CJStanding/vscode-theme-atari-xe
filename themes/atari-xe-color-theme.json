@@ -19,6 +19,7 @@
 		"statusBar.background": "#11457a",
 		"statusBar.debuggingBackground": "#352525",
 		"statusBar.noFolderBackground": "#af0a1e",
+		"editorLineNumber.foreground": "#aaac91",
 		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
@@ -30,7 +31,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#9b9e8f"
 			}
 		},
 		{

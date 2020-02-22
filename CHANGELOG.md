@@ -1,6 +1,11 @@
 Changes
 =======
 
+0.0.3
+-----
+
+- Comment color change
+
 0.0.2
 -----
 
