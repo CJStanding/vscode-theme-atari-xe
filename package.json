@@ -1,27 +1,20 @@
 {
-    "name": "vscode-theme-c64",
-    "displayName": "C64 Purple Soft",
-    "description": "Theme with soft purple background",
-    "version": "0.0.4",
-    "publisher": "wwju",
+    "name": "atari-xe-color-theme",
+    "displayName": "Atari XE",
+    "description": "Color theme inspired by Atari XL/XE BASIC",
+    "version": "0.0.1",
     "engines": {
-        "vscode": "^1.10.0"
+        "vscode": "^1.42.0"
     },
-    "icon": "icon.png",
-    "homepage": "https://github.com/wwju/vscode-theme-c64",
     "categories": [
         "Themes"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/wwju/vscode-theme-c64"
-    },
     "contributes": {
         "themes": [
             {
-                "label": "c64",
+                "label": "Atari XE",
                 "uiTheme": "vs-dark",
-                "path": "./themes/c64-color-theme.json"
+                "path": "./themes/atari-xe-color-theme.json"
             }
         ]
     }
